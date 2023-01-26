@@ -6,3 +6,6 @@ WPAChomper.py transforms any wordlist in to a WPA wordlist by removing non-compa
 # CreateWPAPhoneList.py
 CreateWPAPhoneList.py takes an area code as an argument, and then writes a wordlist with all possible phone numbers for that area code. Your wordlist can be found in the file "phonelist.txt"
 
+# SOHO Wi-Fi Security Assessment Template.docx
+
+The SOHO Wi-Fi Security Assessment Template.docx is a simple testing and reporting template to use during the pen testing of SOHO wireless networks.
